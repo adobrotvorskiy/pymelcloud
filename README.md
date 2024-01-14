@@ -1,4 +1,4 @@
-# pymelcloud
+# pymelcloud_erv
 
 [![PyPI version](https://badge.fury.io/py/pymelcloud.svg)](https://badge.fury.io/py/pymelcloud)
 
