@@ -3,15 +3,15 @@
 from setuptools import setup
 
 setup(
-    name="pymelcloud_erv",
-    version="2.11.0",
+    name="pymelclouderv",
+    version="2.11.2",
     description="Python MELCloud interface",
     author="Vilppu Vuorinen",
     author_email="vilppu.jotain@gmail.com",
     license="MIT",
-    url="https://github.com/adobrotvorskiy/pymelcloud",
+    url="https://github.com/adobrotvorskiy/pymelclouderv",
     python_requires=">3.5",
-    packages=["pymelcloud_erv"],
+    packages=["pymelclouderv"],
     keywords=["homeautomation", "melcloud"],
     classifiers=[
         "Programming Language :: Python :: 3",
